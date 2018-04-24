@@ -1,0 +1,16 @@
+{
+    "name": "mrrobot47/command-template-test",
+    "description": "",
+    "type": "ee-cli-package",
+    "homepage": "https://github.com/author/command-name",
+    "license": "MIT",
+    "authors": [],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "files": [ "command.php" ]
+    },
+    "require": {
+        "wp-cli/wp-cli": "dev-master"
+    }
+}
